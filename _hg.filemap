@@ -1,0 +1,4 @@
+include components/delphi/dialogs
+rename components/delphi/dialogs .
+include components/pascal/data/ExtraListView.pas
+rename components/pascal/data/ExtraListView.pas ExtraListView.pas
