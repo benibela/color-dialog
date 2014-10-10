@@ -2,7 +2,7 @@
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source $DIR/../../../manageUtils.sh
 
-githubProject color-dialog
+mirroredProject color-dialog
 
 BASE=$HGROOT/components/delphi/dialogs
 
